@@ -1,0 +1,280 @@
+{
+  "President and Vice President": [
+    {
+      "candidates": "Kamala D. Harris, Tim Walz",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Chase Oliver, Mike ter Maat",
+      "party": "Libertarian Party"
+    },
+    {
+      "candidates": "Jill Stein, Rudolph Ware",
+      "party": "Green Party"
+    },
+    {
+      "candidates": "Randall Terry, Stephen E. Broden",
+      "party": "Constitution Party"
+    },
+    {
+      "candidates": "Donald J. Trump, J.D. Vance",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Cornel West, Melina Abdullah",
+      "party": "Justice for All Party"
+    }
+  ],
+  "US House of Representatives District 2": [
+    {
+      "candidates": "Michael Dublin",
+      "party": "Green Party"
+    },
+    {
+      "candidates": "Deborah K. Ross",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Alan D. Swain",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Governor": [
+    {
+      "candidates": "Mark Robinson",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Mike Ross",
+      "party": "Libertarian Party"
+    },
+    {
+      "candidates": "Virgil Smith",
+      "party": "Constitution Party"
+    },
+    {
+      "candidates": "Josh Stein",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Wayne Turner",
+      "party": "Green Party"
+    }
+  ],
+  "NC Lieutenant Governor": [
+    {
+      "candidates": "Rachel Hunt",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Wayne Jones",
+      "party": "Constitution Party"
+    },
+    {
+      "candidates": "Hal Weatherman",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Shannon W. Bray",
+      "party": "Libertarian Party"
+    }
+  ],
+  "NC Attorney General": [
+    {
+      "candidates": "Jeff Jackson",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Dan Bishop",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Auditor": [
+    {
+      "candidates": "Bob Drach",
+      "party": "Libertarian Party"
+    },
+    {
+      "candidates": "Jessica Holmes",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Dave Boliek",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Commissioner of Agriculture": [
+    {
+      "candidates": "Sean Haugh",
+      "party": "Libertarian Party"
+    },
+    {
+      "candidates": "Sarah Taber",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Steve Troxler",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Commissioner of Insurance": [
+    {
+      "candidates": "Natasha Marcus",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Mike Causey",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Commissioner of Labor": [
+    {
+      "candidates": "Luke Farley",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Braxton Winston II",
+      "party": "Democratic Party"
+    }
+  ],
+  "NC Secretary of State": [
+    {
+      "candidates": "Elaine Marshall",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Chad Brown",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Superintendent of Public Instruction": [
+    {
+      "candidates": "Maurice (Mo) Green",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Michele Morrow",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Treasurer": [
+    {
+      "candidates": "Wesley Harris",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Brad Briner",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Supreme Court Associate Justice Seat 6": [
+    {
+      "candidates": "Jefferson G. Griffin",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Allison Riggs",
+      "party": "Democratic Party"
+    }
+  ],
+  "NC Court of Appeals Judge Seat 12": [
+    {
+      "candidates": "Tom Murry",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Carolyn Jennings Thompson",
+      "party": "Democratic Party"
+    }
+  ],
+  "NC Court of Appeals Judge Seat 14": [
+    {
+      "candidates": "Ed Eldred",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Valerie Zachary",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Court of Appeals Judge Seat 15": [
+    {
+      "candidates": "Chris Freeman",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Martin E. Moore",
+      "party": "Democratic Party"
+    }
+  ],
+  "NC State Senate District 18": [
+    {
+      "candidates": "Gregory Britt",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Brad Hessel",
+      "party": "Libertarian Party"
+    },
+    {
+      "candidates": "Ashley Bryan Adams",
+      "party": "Republican Party"
+    }
+  ],
+  "NC House of Representatives District 35": [
+    {
+      "candidates": "Evonne S. Hopkins",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Michael Childs",
+      "party": "Libertarian Party"
+    },
+    {
+      "candidates": "Mike Schickett",
+      "party": "Republican Party"
+    }
+  ],
+  "NC Superior Court Judge District 10C Seat 1": [
+    {
+      "candidates": "Stephanie Davis",
+      "party": "Unaffiliated"
+    },
+    {
+      "candidates": "Becky Holt",
+      "party": "Republican Party"
+    },
+    {
+      "candidates": "Sean A. B. Cole",
+      "party": "Democratic Party"
+    }
+  ],
+  "NC District Court Judge District 10A Seat 2": [
+    {
+      "candidates": "Varian A. (Woofer) Davidian III",
+      "party": "Republican Party"
+    }
+  ],
+  "NC District Court Judge District 10A Seat 3": [
+    {
+      "candidates": "Cindy Kenney",
+      "party": "Democratic Party"
+    }
+  ],
+  "Wake County Board of Commissioners District 6": [
+    {
+      "candidates": "Shinica Thomas",
+      "party": "Democratic Party"
+    },
+    {
+      "candidates": "Jacob Arthur",
+      "party": "Republican Party"
+    }
+  ],
+  "Wake County Register of Deeds": [
+    {
+      "candidates": "Tammy L. Brunner",
+      "party": "Democratic Party"
+    }
+  ]
+}
